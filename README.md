@@ -2,6 +2,8 @@
 
 https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-pet-adoption/machine-learning/pet-adoption-9-5838c75b/
 
+<img src='https://media-fastly.hackerearth.com/media/hackathon/hackerearth-machine-learning-challenge-pet-adoption/images/b96edbc6d2-PetAdoption_FBImage.jpg' height=450 width=650/>
+
 # Problem Statement
 
 A leading pet adoption agency is planning to create a virtual tour experience for their customers showcasing all animals that are available in their shelter. To enable this tour experience, you are required to build a Machine Learning model that determine the type of breed of the animal based on its physical attributes and other factors.
