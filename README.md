@@ -1,5 +1,3 @@
-# hackerearth-ML-challenge-pet-adoption
-
 # MY FINAL SCORE - 90.77 (WINNER'S SCORE - 91.55)
 # MY FINAL RANK - 105 OUT OF 5061 (TOP 2%) 
 
