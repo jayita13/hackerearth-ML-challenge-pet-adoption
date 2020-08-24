@@ -1,11 +1,11 @@
 # hackerearth-ML-challenge-pet-adoption
 
+# MY FINAL SCORE - 90.77 (WINNER'S SCORE - 91.55)
+# MY FINAL RANK - 105 OUT OF 5061 (TOP 2%) 
+
 https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-pet-adoption/machine-learning/pet-adoption-9-5838c75b/
 
 <img src='https://media-fastly.hackerearth.com/media/hackathon/hackerearth-machine-learning-challenge-pet-adoption/images/b96edbc6d2-PetAdoption_FBImage.jpg' height=450 width=650/>
-
-# MY FINAL SCORE - 90.77 (WINNER'S SCORE - 91.55)
-# MY FINAL RANK - 105 OUT OF 5061 (TOP 2%) 
 
 # Problem Statement
 
