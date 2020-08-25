@@ -1,5 +1,5 @@
 # MY FINAL SCORE - 90.52 (WINNER'S SCORE - 91.18)
-# MY FINAL RANK - 80 OUT OF 5061 (TOP 1.5%) 
+# MY FINAL RANK - 80 OUT OF 5060 (TOP 1.5%) 
 # LEADERBOARD - https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-pet-adoption/leaderboard/pet-adoption-9-5838c75b/page/2/
 
 # https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-pet-adoption/machine-learning/pet-adoption-9-5838c75b/
